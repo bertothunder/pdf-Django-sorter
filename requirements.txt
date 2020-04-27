@@ -6,7 +6,7 @@ astroid==2.4.0
 awesome-slugify==1.6.5
 binaryornot==0.4.4
 blinker==1.4
-chardet==2.3.0
+chardet==3.0.4
 click==7.1.1
 coreapi==2.0.8
 decorator==4.0.10
