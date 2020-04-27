@@ -42,7 +42,7 @@ pytest-sugar==0.9.3
 pytz==2019.3
 six==1.14.0
 SQLALchemy==1.3.16
-sqlparse==0.1.19
+sqlparse==0.3.1
 termcolor==1.1.0
 tox==3.6.1
 unittest2==1.1.0
